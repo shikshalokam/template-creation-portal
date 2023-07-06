@@ -1,0 +1,7 @@
+{
+  "name": "template-creation-portal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
